@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>ArtX – Der neue Marktplatz für Kunst</title>
+</head>
+<body style="text-align:center; font-family:sans-serif;">
+    <h1>Willkommen bei ArtX</h1>
+    <p>Die Zukunft der digitalen Kunst beginnt hier.</p>
+</body>
+</html>
